@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "notice": "欢迎使用 KANE 语音引擎！",
+  "nodes": [
+    {
+      "name": "🚀 欧洲主力节点 (HuggingFace)",
+      "url": "https://kane-202666-kane-tts.hf.space/tts"
+    }
+  ]
+}
