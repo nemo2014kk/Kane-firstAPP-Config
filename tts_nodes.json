@@ -1,10 +1,14 @@
 {
-  "version": "1.0",
-  "notice": "欢迎使用 KANE 语音引擎！",
+  "version": "1.1",
+  "notice": "🎉 欢迎使用 KANE 语音引擎！",
   "nodes": [
     {
-      "name": "🚀 欧洲主力节点 (HuggingFace)",
+      "name": "🚀 1号服务器 (HuggingFace)",
       "url": "https://kane-202666-kane-tts.hf.space/tts"
+    },
+    {
+      "name": "🛡️ 2号服务器 (HuggingFace)",
+      "url": "https://kane-1992-kane-tts.hf.space/tts"
     }
   ]
 }
