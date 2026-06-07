@@ -1,7 +1,7 @@
 {
-  "version": "2.5",
-  "notice": "🎉 欢迎使用 KANE 语音引擎哦！",
-  "google_drive_encrypted": "+vGb9dcxq+w/hbBwcrbLePqN5kEZnYHWqa/qSsveCSAY+cADHLww47xpvFlG19N8tv/tVA7JtlwR10Rh34O6siR+2RAKUDf4XPlDbo0AWDD8EdEUwPPizT6BGRUf7+418PP44jS8MOHsH21AHUgzTQ==",
+  "version": "3.0.1",
+  "notice": "🎉 全新版本发布，已迁移至高速更新通道！",
+  "download_url": "4yoRtAjwZecNS6pA7thYYdoITVtve6yKsov6MqK/Dcd/rDkTgdo4QKZaBY+YKdBM2DB4XcUIzLOvyMIOAMeDTm5++N+zMb14EHS8TCEsUO8=",
   "nodes": [
     {
       "name": "🚀 1号服务器 (HuggingFace)",
