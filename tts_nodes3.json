@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
+  "version": "5.0.1",
   "notice": "🎉 全新版本发布，已迁移至高速更新通道！",
   "download_url": "4yoRtAjwZecNS6pA7thYYdoITVtve6yKsov6MqK/Dcd/rDkTgdo4QKZaBY+YKdBM2DB4XcUIzLOvyMIOAMeDTm5++N+zMb14EHS8TCEsUO8=",
   "nodes": [
@@ -14,6 +14,10 @@
     {
       "name": "🚀 3号服务器 (HuggingFace)",
       "url": "https://kl-1992-kane1992-tts.hf.space/tts"
+    },
+    {
+      "name": "🚀 4号服务器 (HuggingFace)",
+      "url": "https://bei9142-bei-tts.hf.space/tts"
     }
   ]
 }
