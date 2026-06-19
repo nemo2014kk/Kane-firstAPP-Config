@@ -1,6 +1,6 @@
 {
-  "version": "5.1.6",
-  "notice": "🎉 全新版本发布，️优化上半屏的气泡显示方式、支持长按中央灵动岛切换气泡显示特效。可下载APK直接覆盖安装。",
+  "version": "5.2.1",
+  "notice": "🎉 全新版本发布，️本次升级包括：灵动岛控制台模块化升级、物理网络预热(缩短延迟)、极限录音熔断防护、大模型算力调度优化、清屏确认弹窗修复。可下载APK直接覆盖安装。",
   "download_url": "4yoRtAjwZecNS6pA7thYYdoITVtve6yKsov6MqK/Dcd/rDkTgdo4QKZaBY+YKdBM2DB4XcUIzLOvyMIOAMeDTm5++N+zMb14EHS8TCEsUO8=",
   "nodes": [
     {
