@@ -1,6 +1,6 @@
 {
-  "version": "5.2.1",
-  "notice": "🎉 全新版本发布：灵动岛控制台模块化升级、物理网络预热(缩短延迟)、极限录音熔断防护、大模型算力调度优化、清屏确认弹窗修复。可下载APK直接覆盖安装。",
+  "version": "5.3.1",
+  "notice": "🎉 全新版本发布：主要针对视觉 AR 翻译系统、键盘输入协同、快捷笔记本重排以及裁剪工具定制进行了深度重构与升级。可下载APK直接覆盖安装。",
   "download_url": "4yoRtAjwZecNS6pA7thYYdoITVtve6yKsov6MqK/Dcd/rDkTgdo4QKZaBY+YKdBM2DB4XcUIzLOvyMIOAMeDTm5++N+zMb14EHS8TCEsUO8=",
   "nodes": [
     {
