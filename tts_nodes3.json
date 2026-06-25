@@ -1,6 +1,6 @@
 {
-  "version": "5.3.2",
-  "notice": "🎉 全新版本发布：主要针对小屏与排版专项优化、视觉翻译优化、打字面板防遮挡、笔记排版不混乱。可下载APK直接覆盖安装。",
+  "version": "5.3.3",
+  "notice": "🎉 图片翻译文字样式改进：在 AR 视觉翻译结果页，只需轻触图片背景空白处，即可无缝循环切换 5 种不同的字幕渲染样式，译文清晰呈现。",
   "download_url": "4yoRtAjwZecNS6pA7thYYdoITVtve6yKsov6MqK/Dcd/rDkTgdo4QKZaBY+YKdBM2DB4XcUIzLOvyMIOAMeDTm5++N+zMb14EHS8TCEsUO8=",
   "nodes": [
     {
