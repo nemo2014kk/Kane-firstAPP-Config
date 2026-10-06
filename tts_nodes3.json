@@ -1,6 +1,6 @@
 {
-  "version": "5.4.0",
-  "notice": "🚀 核心新功能：面对面实时同传功能。同传模型能一边听对方说话，一边在后台实时翻译、出字幕并同步播报发音。\n新增“🔈外放/🎧耳机”一键切换与独立音量滑条。带耳机时若需与老外交流，切换外放即可将翻译声通过喇叭播放给对方；而我方收到的TTS与同传翻译声音则始终留在耳机中。\n🚀底层多维度安全加固（多处加固）。",
+  "version": "5.4.1",
+  "notice": "🚀新增功能：🎙️ 文本编辑框新增「语音输入」：现在可以直接按住右侧新增的麦克风按钮说话，松开即可自动将语音转换为文字追加到光标处（仅转文字，不触发翻译），输入更高效！",
   "download_url": "4yoRtAjwZecNS6pA7thYYdoITVtve6yKsov6MqK/Dcd/rDkTgdo4QKZaBY+YKdBM2DB4XcUIzLOvyMIOAMeDTm5++N+zMb14EHS8TCEsUO8=",
   "nodes": [
     {
